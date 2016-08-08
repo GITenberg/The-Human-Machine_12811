@@ -1,0 +1,33 @@
+_repo: The-Human-Machine_12811
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bennett, Arnold
+    aliases:
+    - Bennett, E. Arnold
+    - Bennett, Enoch Arnold
+    birthdate: 1867
+    deathdate: 1931
+    gutenberg_agent_id: '859'
+    url: http://www.gutenberg.org/2009/agents/859
+    wikipedia: http://en.wikipedia.org/wiki/Arnold_Bennett
+description: Title; Contents; I Taking Oneself for Granted; II Amateurs in the Art
+  of Living; III The Brain as a GentlemanAt-Large; IV The First Practical Step; V
+  Habit-Forming by Concentration; VI Lord Over the Noddle; VII What 'Living' Chiefly
+  Is; VIII The Daily Friction; IX 'Fire!'; X Mischievously Overworking It; XI An Interlude;
+  XII An Interest in Life; XIII Success and Failure; XIV A Man and His Environment;
+  XV L.S.D.; XVI Reason, Reason!
+gutenberg_issued: '2004-07-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12811'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BJ'
+- !lcsh 'Conduct of life'
+- GITenberg
+title: The Human Machine
+url: http://www.gutenberg.org/ebooks/12811
